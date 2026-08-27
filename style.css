@@ -1,0 +1,23 @@
+
+/*  ESTE MODIFICA TODO EL BODY EN GRAL  */
+
+body {
+    background-color: hsl(0, 5%, 39%);
+    color: #09031bbf;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30px;
+
+
+
+}
+
+/*  ASI PARA MODIFICAR INDIVIDUALMENTE  */
+p {
+
+    color:rgb(10, 136, 37)
+
+  
+
+}
+
+
